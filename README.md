@@ -49,7 +49,6 @@ JLVM é um simples script para automatizar algumas tarefas de Logical Volume Man
 		| DISCO 1  | 	     |  DISCO 2 | | DISCO 3  |->Disco rigidos 
 		| /dev/sda |	     | /dev/sdb | | /dev/sdc | 
 		+----------+ 	     +----------+ +----------+ 
-
 ```
 
 # Clonando o projeto e utilizando o script
