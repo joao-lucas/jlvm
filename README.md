@@ -60,7 +60,27 @@ $ git clone https://github.com/joao-lucas/jlvm
 $ cd jlvm
 $ chmod +x jlvm.sh
 $ ./jlvm.sh
+
 ```
+
+## Atenção
+Ao utilizar esse script é imprescindível conhecimento em sistemas de arquivos, criar partições, manter a integridade do sistema de arquivo, montagen e desmontagem de sistemas de arquivos. Deve-se saber usar comandos como: 
+
+* fdisk
+* parted
+* gdisk
+* mkfs
+* mount
+* umount
+* e2fsck
+* df
+* du
+* mke2fs
+* dumpe2fs
+* tune2fs
+* debugfs
+
+## Tome muito cuidado quando esta trabalhando com sistema de arquivos, caso você faça alguma coisa errada, pode perder todos seus dados.
 
 ## Autor
 João Lucas <joaolucas@linuxmail.org>
