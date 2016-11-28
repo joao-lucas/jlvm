@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/mschwager/gitem.svg?branch=master)](https://travis-ci.org/mschwager/gitem)
 [![License](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://img.shields.io/packagist/l/doctrine/orm.svg) 
 
-# JLVM
+## JLVM
 
 JLVM é um simples script para automatizar algumas tarefas de Logical Volume Manager, e tem como objetivo:
 
@@ -51,7 +51,7 @@ JLVM é um simples script para automatizar algumas tarefas de Logical Volume Man
                +----------+         +----------+ +----------+
 ```
 
-# Clonando o projeto e utilizando o script
+## Clonando o projeto e utilizando o script
 ```
 $ git clone https://github.com/joao-lucas/jlvm
 $ cd jlvm
@@ -59,5 +59,5 @@ $ chmod +x jlvm.sh
 $ ./jlvm
 ```
 
-# Author
+## Author
 João Lucas <joaolucas@linuxmail.org>
