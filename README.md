@@ -19,6 +19,39 @@ JLVM é um simples script para automatizar algumas tarefas de Logical Volume Man
 * Mostrar detalhes de todos itens acima
 
 
+		            +-----+	 
++---------------------------| LVM |--------------------------------+ 
+|		            +-----+				   | 
+|					       		           | 
+|    +-------------+	         +-----------+    +--------------+ |  
+|    | /mnt/backup | 	         | /mnt/var  |    |  		 | |->Sistemas de arquivos 
+|    +-------------+ 	         +-----------+    |  Espaço não  | | 
+|	     |		   	       |          |	alocado  | | 
+| +---------------------+   +------------------+  |		 | |->Volumes logicos 
+| | /dev/storage/backup |   | /dev/storage/var |  |		 | |   
+| +---------------------+   +------------------+  +--------------+ | 
+| 	     |		       	       |		|	   | 
+| +---------------+ +--------------------------------------------+ | 
+| | grupo volume1 | |        	    grupo volume2		 | |->Grupos de volumes 
+| +---------------+ +--------------------------------------------+ | 
+|	     |		    |	  	  |	        |	   |	 
+|     +-----------+ +-----------+ +-----------+ +-----------+	   |  
+|     | /dev/sda1 | | /dev/sda2 | | /dev/sdb1 | | /dev/sdc1 |	   |->Volumes fisicos 
+|     +-----------+ +-----------+ +-----------+ +-----------+      | 
++------------------------------------------------------------------+ 
+             |		    |		  |		| 
+	+-----------+ +-----------+ +-----------+ +-----------+		 
+	| /dev/sda1 | | /dev/sda2 | | /dev/sdb1	| | /dev/sdc1 |->Partições 
+	+-----------+ +-----------+ +-----------+ +-----------+ 
+		 \	 /	 	  |		| 
+		+----------+ 	     +----------+ +----------+ 
+		|----------| 	     |----------| |----------| 
+		| DISCO 1  | 	     |  DISCO 2 | | DISCO 3  |->Disco rigidos 
+		| /dev/sda |	     | /dev/sdb | | /dev/sdc | 
+		+----------+ 	     +----------+ +----------+ 
+
+
+
 # Clonando o projeto e utilizando o script
 ```
 $ git clone https://github.com/joao-lucas/jlvm
@@ -26,3 +59,6 @@ $ cd jlvm
 $ chmod +x jlvm.sh
 $ ./jlvm
 ```
+
+# Author
+João Lucas <joaolucas@linuxmail.org>
