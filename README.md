@@ -18,7 +18,7 @@ JLVM é um simples script para automatizar algumas tarefas de Logical Volume Man
 * Reduzir tamanho de volume logico
 * Mostrar detalhes de todos itens acima
 
-
+```
 		            +-----+	 
 +---------------------------| LVM |--------------------------------+ 
 |		            +-----+				   | 
@@ -50,7 +50,7 @@ JLVM é um simples script para automatizar algumas tarefas de Logical Volume Man
 		| /dev/sda |	     | /dev/sdb | | /dev/sdc | 
 		+----------+ 	     +----------+ +----------+ 
 
-
+```
 
 # Clonando o projeto e utilizando o script
 ```
