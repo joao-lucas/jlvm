@@ -1,4 +1,4 @@
-# Esse script foi desenvolvido para automatizar algumas tarefas de LVM(Logical Volume Manager), e tem como objetivo:
+Esse script foi desenvolvido para automatizar algumas tarefas de LVM(Logical Volume Manager), e tem como objetivo:
 
 * Criar volume fisico
 * Remover volume fisico
