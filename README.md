@@ -61,9 +61,44 @@ JLVM é um simples script para automatizar algumas tarefas de Logical Volume Man
 $ git clone https://github.com/joao-lucas/jlvm
 $ cd jlvm
 $ chmod +x jlvm.sh
-$ ./jlvm.sh
+# ./jlvm.sh     # Executar o script como root
 
 ```
+
+## Menu principal
+![1](https://github.com/joao-lucas/jlvm/blob/master/screenshots/1.png)
+
+## Criando volume fisico
+![2](https://github.com/joao-lucas/jlvm/blob/master/screenshots/2.png)
+
+## Removendo volume fisico
+![3](https://github.com/joao-lucas/jlvm/blob/master/screenshots/3.png)
+
+## Criando grupo de volume
+![4](http://url/to/4.png)
+
+## Removendo volume fisico de um grupo de volume
+![alt tag](http://url/to/5.png)
+
+## Removendo todo um grupo de volume
+![6](http://url/to/6.png)
+
+## Estendendo um grupo de volume
+![7](http://url/to/7.png)
+
+## Criando um volume logico
+![8](http://url/to/8.png)
+
+## Estendendo um volume logico
+![9](http://url/to/9.png)
+
+## Diminuindo um volume logico
+![alt tag](http://url/to/10.png)
+
+## Removendo um volume logico
+![11](http://url/to/11.png)
+
+
 
 ## Atenção
 Ao utilizar esse script é imprescindível conhecimento em sistemas de arquivos, criar partições, manter a integridade do sistema de arquivo, montagen e desmontagem de sistemas de arquivos. Deve-se saber usar comandos como: 
@@ -85,4 +120,4 @@ Ao utilizar esse script é imprescindível conhecimento em sistemas de arquivos,
 ## Tome muito cuidado quando esta trabalhando com sistema de arquivos, caso você faça alguma coisa errada, pode perder todos seus dados.
 
 ## Autor
-João Lucas <joaolucas@linuxmail.org>
+João Lucas <<joaolucas@linuxmail.org>>
