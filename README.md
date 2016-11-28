@@ -21,6 +21,8 @@ JLVM é um simples script para automatizar algumas tarefas de Logical Volume Man
 * Mostrar detalhes de todos itens acima
 
 
+
+## Esquema de funcionamento do LVM
 ```
                              +-----+
  +---------------------------| LVM |--------------------------------+
