@@ -20,8 +20,9 @@ JLVM é um simples script para automatizar algumas tarefas de Logical Volume Man
 
 
 # Clonando o projeto e utilizando o script
+```
 $ git clone https://github.com/joao-lucas/jlvm
 $ cd jlvm
 $ chmod +x jlvm.sh
 $ ./jlvm
-
+```
