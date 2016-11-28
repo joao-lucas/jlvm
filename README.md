@@ -1,10 +1,10 @@
-
 [![GitHub issues](https://img.shields.io/github/issues/joao-lucas/jlvm.svg?style=plastic)](https://github.com/joao-lucas/jlvm/issues)
 [![GitHub forks](https://img.shields.io/github/forks/joao-lucas/jlvm.svg?style=plastic)](https://github.com/joao-lucas/jlvm/network)
 [![GitHub stars](https://img.shields.io/github/stars/joao-lucas/jlvm.svg?style=plastic)](https://github.com/joao-lucas/jlvm/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/joao-lucas/jlvm/master/LICENSE)
 
-## JLVM
+
+# JLVM - Joao Logical Volume Manager
 
 JLVM é um simples script para automatizar algumas tarefas de Logical Volume Manager, e tem como objetivo:
 
@@ -19,6 +19,7 @@ JLVM é um simples script para automatizar algumas tarefas de Logical Volume Man
 * Estender volume logico
 * Reduzir tamanho de volume logico
 * Mostrar detalhes de todos itens acima
+
 
 ```
                              +-----+
@@ -58,8 +59,8 @@ JLVM é um simples script para automatizar algumas tarefas de Logical Volume Man
 $ git clone https://github.com/joao-lucas/jlvm
 $ cd jlvm
 $ chmod +x jlvm.sh
-$ ./jlvm
+$ ./jlvm.sh
 ```
 
-## Author
+## Autor
 João Lucas <joaolucas@linuxmail.org>
