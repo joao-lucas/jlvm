@@ -75,28 +75,28 @@ $ chmod +x jlvm.sh
 ![3](https://github.com/joao-lucas/jlvm/blob/master/screenshots/3.png)
 
 ## Criando grupo de volume
-![4](http://url/to/4.png)
+![4](https://github.com/joao-lucas/jlvm/blob/master/screenshots/4.png)
 
 ## Removendo volume fisico de um grupo de volume
-![alt tag](http://url/to/5.png)
+![5](https://github.com/joao-lucas/jlvm/blob/master/screenshots/5.png)
 
 ## Removendo todo um grupo de volume
-![6](http://url/to/6.png)
+![6](https://github.com/joao-lucas/jlvm/blob/master/screenshots/6.png)
 
 ## Estendendo um grupo de volume
-![7](http://url/to/7.png)
+![7](https://github.com/joao-lucas/jlvm/blob/master/screenshots/7.png)
 
 ## Criando um volume logico
-![8](http://url/to/8.png)
+![8](https://github.com/joao-lucas/jlvm/blob/master/screenshots/8.png)
 
 ## Estendendo um volume logico
-![9](http://url/to/9.png)
+![9](https://github.com/joao-lucas/jlvm/blob/master/screenshots/9.png)
 
 ## Diminuindo um volume logico
-![alt tag](http://url/to/10.png)
+![10](https://github.com/joao-lucas/jlvm/blob/master/screenshots/10.png)
 
 ## Removendo um volume logico
-![11](http://url/to/11.png)
+![11](https://github.com/joao-lucas/jlvm/blob/master/screenshots/11.png)
 
 
 
