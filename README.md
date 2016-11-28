@@ -1,6 +1,8 @@
 
-[![Build Status](https://travis-ci.org/mschwager/gitem.svg?branch=master)](https://travis-ci.org/mschwager/gitem)
-[![License](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://img.shields.io/packagist/l/doctrine/orm.svg) 
+[![GitHub issues](https://img.shields.io/github/issues/joao-lucas/jlvm.svg?style=plastic)](https://github.com/joao-lucas/jlvm/issues)
+[![GitHub forks](https://img.shields.io/github/forks/joao-lucas/jlvm.svg?style=plastic)](https://github.com/joao-lucas/jlvm/network)
+[![GitHub stars](https://img.shields.io/github/stars/joao-lucas/jlvm.svg?style=plastic)](https://github.com/joao-lucas/jlvm/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/joao-lucas/jlvm/master/LICENSE)
 
 ## JLVM
 
